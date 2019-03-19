@@ -133,6 +133,14 @@ body {
   color: #696969;
 }
 
+.name{
+  float: right;
+}
+
+.avatar-img{
+  float: left;
+  width: 15%
+}
 /*
  * Footer
  */
@@ -176,4 +184,3 @@ body {
     width: 700px;
   }
 }
-
